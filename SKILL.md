@@ -1,6 +1,6 @@
 # YouTube Studio Skill
 
-Comprehensive YouTube channel management skill for Clawdbot. Monitor analytics, upload videos, manage comments, and generate content ideas.
+Comprehensive YouTube channel management skill for OpenClaw. Monitor analytics, upload videos, manage comments, and generate content ideas.
 
 ## Overview
 
@@ -19,7 +19,7 @@ Comprehensive YouTube channel management skill for Clawdbot. Monitor analytics, 
 #### Get API Key & OAuth Credentials
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project (e.g., "Clawdbot YouTube Studio")
+2. Create a new project (e.g., "OpenClaw YouTube Studio")
 3. Enable **YouTube Data API v3**:
    - Search for "YouTube Data API v3"
    - Click "Enable"
@@ -346,7 +346,7 @@ youtube-studio upload \
 
 ## License
 
-MIT - Use freely within Clawdbot ecosystem
+MIT - Use freely within OpenClaw ecosystem
 
 ## Support
 

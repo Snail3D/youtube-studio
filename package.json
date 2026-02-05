@@ -1,7 +1,7 @@
 {
   "name": "youtube-studio-skill",
   "version": "1.0.0",
-  "description": "Comprehensive YouTube channel management skill for Clawdbot. Monitor analytics, upload videos, manage comments, and generate content ideas.",
+  "description": "Comprehensive YouTube channel management skill for OpenClaw. Monitor analytics, upload videos, manage comments, and generate content ideas.",
   "main": "scripts/youtube-studio.js",
   "bin": {
     "youtube-studio": "scripts/youtube-studio.js"
@@ -25,10 +25,11 @@
     "analytics",
     "video-upload",
     "comments",
-    "clawdbot",
+    "playlist",
+    "openclaw",
     "skill"
   ],
-  "author": "Clawdbot",
+  "author": "OpenClaw",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"

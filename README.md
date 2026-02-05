@@ -1,6 +1,6 @@
 # YouTube Studio - User Guide
 
-Quick start for YouTube channel management with Clawdbot.
+Quick start for YouTube channel management with OpenClaw.
 
 ## 5-Minute Setup
 
