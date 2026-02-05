@@ -1,6 +1,6 @@
 # YouTube Studio - Installation Guide
 
-Complete step-by-step setup for the YouTube Studio Clawdbot skill.
+Complete step-by-step setup for the YouTube Studio OpenClaw skill.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Complete step-by-step setup for the YouTube Studio Clawdbot skill.
 ### 1. Install the Skill
 
 ```bash
-# Clone or copy skill to Clawdbot skills directory
+# Clone or copy skill to OpenClaw skills directory
 cp -r youtube-studio ~/clawd/skills/
 
 # Navigate to skill directory
